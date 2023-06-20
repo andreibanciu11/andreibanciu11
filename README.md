@@ -1,6 +1,6 @@
 # Andrei Banciu's GitHub Profile
 
-<img src="images/backgroundGIT.jpg" alt="Profile Picture" style="max-width: 300px; border-radius: 50%;">
+<img src="images/backgroundGIT.jpg" alt="Profile Picture" style="max-width: 200px; border-radius: 50%;">
 
 ## Introduction
 
