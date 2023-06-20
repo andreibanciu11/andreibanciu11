@@ -1,7 +1,7 @@
 <h1 align="center">Hi there!👋</h1>
 
 <p align="center">
-  <img src="images/profile_picture.jpg" alt="Profile Picture" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+  <img src="images/backgroundGIT.jpg" alt="Profile Picture" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
 </p>
 
 ## Introduction
