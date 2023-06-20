@@ -6,7 +6,7 @@
 
 <h3 align="center">Welcome to my GitHub profile!😁 I am Andrei Banciu, a second-year computer science student at UBB Cluj Napoca💻. Here you can see my personal and university projects!📚</h3>
 
-## Contact Info
+## Contact Info✉️
 
 You can contact me via email at [andreibanciu53@gmail.com](mailto:andreibanciu53@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/andrei-banciu-089a32224/).
 
