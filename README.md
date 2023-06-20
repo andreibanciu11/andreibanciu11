@@ -8,8 +8,8 @@
 
 ## Contact Info✉
 
-Email: [andreibanciu53@gmail.com](mailto:andreibanciu53@gmail.com)
-LinkedIn: https://www.linkedin.com/in/andrei-banciu-089a32224/
+-Email: [andreibanciu53@gmail.com](mailto:andreibanciu53@gmail.com)
+-LinkedIn: https://www.linkedin.com/in/andrei-banciu-089a32224/
 
 ## Programming Languages
 
