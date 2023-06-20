@@ -1,6 +1,6 @@
 # Andrei Banciu's GitHub Profile
 
-<div style="background-image: url('images/background.jpg'); background-size: cover; padding: 50px;">
+<div style="background-image: url('images/backgroundGIT.jpg'); background-size: cover; padding: 50px;">
     <img src="images/profile_picture.jpg" alt="Profile Picture" width="200" height="200" style="border-radius: 50%;">
     <h1 style="color: white; font-size: 32px; margin-top: 20px;">Andrei Banciu</h1>
     <h3 style="color: white; font-size: 18px;">Second-year Computer Science Student at UBB Cluj Napoca</h3>
