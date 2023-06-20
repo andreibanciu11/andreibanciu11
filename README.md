@@ -1,8 +1,8 @@
-<p align="center">
-<img src="images/backgroundGIT.jpg" alt="Profile Picture" style="width: 450px; height: 300px; object-fit: cover; border-radius: 50%;">
-</p>
-
 <h1 align="center">Hi there!👋</h1>
+
+<p align="center">
+    <img src="images/backgroundGIT.jpg" alt="Profile Picture" style="width: 450px; height: 300px; object-fit: cover; border-radius: 50%;">
+</p>
 
 ## Introduction
 
