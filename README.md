@@ -1,8 +1,6 @@
 # Andrei Banciu's GitHub Profile
 
-<div style="position: relative; width: 100%; height: 300px; overflow: hidden;">
-  <img src="images/backgroundGIT.jpg" style="width: 100%; height: auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-</div>
+<div style="background-image: url('images/backgroundGIT.jpg'); background-size: cover; background-position: center; height: 300px;"></div>
 
 ## Introduction
 
