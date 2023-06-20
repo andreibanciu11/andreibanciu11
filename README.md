@@ -1,7 +1,9 @@
-# Andrei Banciu's GitHub Profile
 <p align="center">
 <img src="images/backgroundGIT.jpg" alt="Profile Picture" style="width: 450px; height: 300px; object-fit: cover; border-radius: 50%;">
 </p>
+
+<h1 align="center">Hi there!👋</h1>
+
 ## Introduction
 
 Welcome to my GitHub profile! I am Andrei Banciu, a second-year computer science student at UBB Cluj Napoca. This repository showcases my personal and university projects, demonstrating my passion for software development and problem-solving. I have experience working with various programming languages and technologies, and I am always eager to learn and explore new ones.
