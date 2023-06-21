@@ -9,7 +9,7 @@
 ## Contact Info✉
 
 Email: [andreibanciu53@gmail.com](mailto:andreibanciu53@gmail.com)<br>
-LinkedIn: https://www.linkedin.com/in/andrei-banciu-089a32224/
+LinkedIn: linkedin.com/in/andreibanciu
 
 ## Programming Languages💻
 
