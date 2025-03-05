@@ -20,6 +20,5 @@ I have experience working with the following programming languages:
 - SQL
 - .NET
 - Python
-- React
 - HTML
 - CSS
